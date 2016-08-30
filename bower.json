@@ -1,0 +1,26 @@
+{
+  "name": "ng.exception",
+  "description": "Angular Module",
+  "version": "1.0.0",
+  "keywords": ["cit", "angularJS", "exception"],
+  "main": "dist/ngException.js",
+  "ignore": [
+    "/.*",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build",
+    "speed",
+    "test",
+    "tests",
+    "*.md",
+    ".idea"
+  ],
+  "authors": [
+    { "name": "Miller Augusto S. Martins", "email": "miller@ciandt.com", "homepage": "http://br.linkedin.com/pub/miller-augusto/2a/38b/832/" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:miller-cit/ngException.git"
+  }
+}
