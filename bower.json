@@ -1,7 +1,7 @@
 {
   "name": "ng-exception",
   "description": "Angular Module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["cit", "angularJS", "exception"],
   "main": "dist/ngException.js",
   "ignore": [
